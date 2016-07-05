@@ -9,9 +9,9 @@ get('/') do
 end
 
 get('/triangle') do
-  side_one = params.fetch('side_one')
-  side_two = params.fetch('side_two')
-  side_three = params.fetch('side_three')
+  side_one = params.fetch('side_one').to_i
+  side_two = params.fetch('side_two').to_i
+  side_three = params.fetch('side_three').to_i
   @triangle = Triangle.new(side_one, side_two, side_three)
   erb(:triangle)
 end
