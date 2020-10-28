@@ -1,8 +1,8 @@
-# _Word Count_
+# _Fun with Triangles_
 
 #### _BDD and Sinatra Exercise for Epicodus, 07.04.2016_
 
-#### By _Halle Williams and Lauren Posey_
+#### By _Halle Williams and Lauren Valkyrie_
 
 ## Description
 
@@ -33,4 +33,4 @@ _This is a web application in which the user can enter a word and a sentence or 
 
 **MIT License**
 
-Copyright (c) 2016 **_HR Williams and Lauren Posey_**
+Copyright (c) 2016 **_HR Williams and Lauren Valkyrie_**
